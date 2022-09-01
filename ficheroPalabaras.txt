@@ -1,0 +1,12 @@
+perro
+gatos
+loros
+pollo
+perso
+casas
+mesas
+telev
+torre
+abrig
+botes
+Barco
