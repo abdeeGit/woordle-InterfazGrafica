@@ -6,4 +6,6 @@ A tener en cuenta:
   + Las palabras se generar apartir de un fichero de palabras.
   + aaa
   * bbbcc
+  ![image](https://user-images.githubusercontent.com/96297680/225642842-75618e54-0098-43eb-abe1-9585f2b79c3a.png)
+
   
